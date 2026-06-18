@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "989RWN736Z.com.fightingisland.choreonotes",
+        "paths": ["/auth/callback", "/auth/callback/*"]
+      }
+    ]
+  }
+}
